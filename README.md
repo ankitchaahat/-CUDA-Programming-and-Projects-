@@ -2,21 +2,46 @@
 This repository is dedicated to CUDA programming, GPU acceleration, and high-performance computing.
 
 
-🔥 CUDA Programming & Projects - High-Performance GPU Computing 🚀
-This repository is dedicated to CUDA programming, GPU acceleration, and high-performance computing. It contains a wide range of CUDA implementations, parallel computing algorithms, and real-world GPU projects optimized for speed and efficiency.
+# 🚀 CUDA Programming & Projects  
 
-🔹 What’s Inside?
-🚀 CUDA Fundamentals: Threads, Blocks, Warps, and Kernels
-🚀 Memory Hierarchy: Global, Shared, Constant, and Texture Memory Optimizations
-🚀 Parallel Computing: Matrix Multiplication, Image Processing, Sorting, etc.
-🚀 Multi-GPU & Distributed Computing: Scaling Performance across GPUs
-🚀 AI & Deep Learning on CUDA: Speeding up neural networks with CUDA
+Welcome to the **CUDA Programming & Projects** repository! This repo is a **one-stop destination** for learning, implementing, and optimizing **CUDA-based parallel computing** programs. It covers everything from **basic CUDA programming** to **high-performance AI acceleration** using GPUs.  
 
-🎯 Why This Repo?
-✔ Learn and master CUDA from basics to advanced
-✔ Explore high-performance parallel computing techniques
-✔ Implement real-world AI and scientific computing projects
-✔ Optimize GPU performance for maximum efficiency
+---
+
+## 🌟 Features  
+
+✅ **Beginner to Advanced CUDA Programs**  
+✅ **Optimized GPU Implementations**  
+✅ **CUDA Memory Management (Global, Shared, Constant)**  
+✅ **Parallel Algorithms (Sorting, Reduction, Scan, etc.)**  
+✅ **Deep Learning & AI Acceleration**  
+✅ **Multi-GPU and Distributed CUDA Computing**  
+
+---  
+
+## 📂 Folder Structure  
+
+
 
 💡 Let’s push the limits of GPU computing and unlock extreme performance! 🚀🔥
+
+
+📦 CUDA-Programming-and-Projects  
+ ┣ 📂 Basics  
+ ┃ ┣ 📜 hello_cuda.cu  
+ ┃ ┣ 📜 vector_addition.cu  
+ ┃ ┗ 📜 matrix_multiplication.cu  
+ ┣ 📂 Memory_Management  
+ ┃ ┣ 📜 shared_memory_example.cu  
+ ┃ ┣ 📜 global_memory_vs_shared_memory.cu  
+ ┃ ┗ 📜 README.md  
+ ┣ 📂 Parallel_Algorithms  
+ ┃ ┣ 📜 parallel_reduction.cu  
+ ┃ ┣ 📜 parallel_prefix_sum.cu  
+ ┃ ┗ 📜 README.md  
+ ┣ 📂 Deep_Learning  
+ ┃ ┣ 📜 cuda_convolution.cu  
+ ┃ ┣ 📜 gpu_accelerated_nn.cu  
+ ┃ ┗ 📜 README.md  
+ ┗ 📜 README.md  
 
